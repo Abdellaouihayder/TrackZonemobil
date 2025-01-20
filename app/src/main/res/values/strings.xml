@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TrackZone</string>
+    <string name="open_nav">open navigation drawer</string>
+    <string name="close_nav">close navigation drawer</string>
+    <string name="employer">
+        /email
+        /name
+        /phoneNumber
+        /poste
+    </string>
+    <string name="preference_file_key">com.example.proform.NEW_COMMAND_FLAG</string>
+    <string name="new_command_added_flag">new_command_added_flag</string>
+
+</resources>
